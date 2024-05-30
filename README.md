@@ -1,8 +1,5 @@
 # Credit-Card-Transaction-Report
 
-GPT
-Absolutely! Here's a refined version of the caption that includes your interest in the data analyst field:
-
 🎉 Thrilled to unveil my latest creation: an interactive Sales Dashboard designed in Power BI! 📈💳
 
 This dynamic dashboard transforms credit card transaction data into actionable insights, featuring:
